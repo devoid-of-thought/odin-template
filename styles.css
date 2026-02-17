@@ -74,3 +74,12 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+:root {
+  font-size: 16px;
+  --far-background-color: #cccccc;
+  --close-background-color: #eeeeee;
+  --primary-color: #020100;
+  --secondary-color: #801a86;
+  --accent-color: #e768f3;
+}
