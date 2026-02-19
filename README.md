@@ -1,8 +1,18 @@
 # Created for project odin
 
+## How to use this template
 
-## How to activate Webpack
+1. Install dependencies:
+```sh
+npm install
+```
 
-'''
-npm init -y --init-type=module
+2. Start the development server:
+```sh
+npm start
+```
 
+3. Build for production:
+```sh
+npm run build
+```
